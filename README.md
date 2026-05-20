@@ -1,89 +1,51 @@
 <h1 align="center">Hi 👋, I'm Harshit Pushkarna</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Systems+%26+Real-Time+Apps;Exploring+Docker%2C+Redis%2C+BullMQ%2C+AI-Integrations;MERN+Stack+%26+Product+Engineering" alt="Typing SVG" />
+</p>
 
-<h3 align="center">
-Backend-focused Full-Stack Developer exploring scalable systems, real-time applications, deployment, and AI integrations
-</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-pushkarna-b2333b383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harshitpushkarnais@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 First-year Software Product Engineering student at **LPU × Kalvium**
-- 🚀 Building and deploying full-stack web applications
-- ⚙️ Interested in backend systems, scalability, and real-world architectures
-- 🔌 Exploring real-time applications using Socket.IO
-- 🐳 Learning Docker, Redis, BullMQ, rate limiting, and modern backend workflows
-- 🤖 Exploring AI integrations in web applications
-- 📚 Learning by building practical projects and continuously improving through hands-on development
+I am a first-year **Software Product Engineering** student at **LPU × Kalvium**, focused on building robust backend architectures, optimizing systems for scalability, and shipping full-stack applications. 
+
+- 🚀 **What I'm doing:** Building real-time applications and production-ready architectures.
+- ⚙️ **Current focus:** Diving deep into message queues, caching mechanisms, system performance, and **AI integrations**.
+- 📚 **Philosophy:** Learning through pattern-based problem solving and hands-on, practical execution.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack & Focus Areas
 
-### Frontend
+| Category | Technologies & Focus Areas |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind" alt="Frontend Stack" /> <br> ⚡ *SPA Development • Responsive UI/UX • State Management* |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Stack" /> <br> 🔌 *RESTful APIs • Real-time Systems (`Socket.IO`) • Database Modeling* |
+| **DevOps & Architecture** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman" alt="DevOps Stack" /> <br> 🛡️ *Containerization (`Docker`) • Redis Caching • Task Queues (`BullMQ`)* |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="22"/> React &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="22"/> HTML5 &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="22"/> CSS3 &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="22"/> Tailwind CSS
-</p>
-
----
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="22"/> Node.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="22"/> Express.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="22"/> MongoDB &nbsp;&nbsp;
-  🔌 Socket.IO &nbsp;&nbsp;
-  ⚡ REST APIs &nbsp;&nbsp;
-</p>
+### 🔌 Core Concepts & Architecture
+* **Backend Systems:** RESTful API Design, Real-time Communication (`Socket.IO`)
+* **Performance & Security:** Rate Limiting, Redis Caching, Async Queues (`BullMQ`)
+* **DevOps Workflows:** Containerization (`Docker`), Production Deployment
 
 ---
 
-### Tools & Technologies
+## 📫 Connect With Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" width="22"/> Docker &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="22"/> Git &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="22"/> GitHub &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="22"/> Postman &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="22"/> VS Code
-</p>
+You can reach out to me via email for collaborations or connect with me professionally on LinkedIn:
 
-<p>
-  🚀 Deployment &nbsp;&nbsp;
-  🛡️ Rate Limiting &nbsp;&nbsp;
-</p>
-
----
-
-# 📌 Currently Exploring
-
-- Scalable backend systems
-- Redis caching & queue systems
-- Rate limiting & backend security practices
-- Deployment workflows and production-ready applications
-- AI-powered workflows and integrations
-
----
-
-# 📫 Connect With Me
-
-<p>
-  <a href="mailto:harshitpushkarnais@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="22"/> harshitpushkarnais@gmail.com
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Harshit2722">
-    <img src="https://skillicons.dev/icons?i=github" width="22"/> github.com/Harshit2722
-  </a>
-</p>
+* 📧 **Email:** [harshitpushkarnais@gmail.com](mailto:harshitpushkarnais@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/harshit-pushkarna](https://www.linkedin.com/in/harshit-pushkarna-b2333b383/)
+* 🐙 **GitHub:** [github.com/Harshit2722](https://github.com/Harshit2722)
 
 ---
 

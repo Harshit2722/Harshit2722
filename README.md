@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I am a first-year **Software Product Engineering** student at **LPU × Kalvium**, focused on building robust backend architectures, optimizing systems for scalability, and shipping full-stack applications. 
+I am a second-year **Software Product Engineering** student at **LPU × Kalvium**, focused on building robust backend architectures, optimizing systems for scalability, and shipping full-stack applications. 
 
 - 🚀 **What I'm doing:** Building real-time applications and production-ready architectures.
 - ⚙️ **Current focus:** Diving deep into message queues, caching mechanisms, system performance, and **AI integrations**.

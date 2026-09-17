@@ -1,54 +1,79 @@
-<h1 align="center">Hi 👋, I'm Harshit Pushkarna</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Backend-Focused+Full-Stack+Developer;Building+Scalable+Systems+%26+Real-Time+Apps;Exploring+Docker%2C+Redis%2C+BullMQ%2C+AI-Integrations;MERN+Stack+%26+Product+Engineering" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshit-pushkarna-b2333b383/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:harshitpushkarnais@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=180&section=header&text=Harshit%20Pushkarna&fontSize=40&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descSize=16&descColor=94a3b8" width="100%"/>
 
----
 
-## 👨‍💻 About Me
 
-I am a second-year **Software Product Engineering** student at **LPU × Kalvium**, focused on building robust backend architectures, optimizing systems for scalability, and shipping full-stack applications. 
+</div>
 
-- 🚀 **What I'm doing:** Building real-time applications and production-ready architectures.
-- ⚙️ **Current focus:** Diving deep into message queues, caching mechanisms, system performance, and **AI integrations**.
-- 📚 **Philosophy:** Learning through pattern-based problem solving and hands-on, practical execution.
+<br>
 
----
+## About Me
 
-## 🛠️ Tech Stack & Focus Areas
+Hey, I'm Harshit — a 2nd-year CS student at **LPU × Kalvium** building production-ready web applications from scratch.
 
-| Category | Technologies & Focus Areas |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind" alt="Frontend Stack" /> <br> ⚡ *SPA Development • Responsive UI/UX • State Management* |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Stack" /> <br> 🔌 *RESTful APIs • Real-time Systems (`Socket.IO`) • Database Modeling* |
-| **DevOps & Architecture** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman" alt="DevOps Stack" /> <br> 🛡️ *Containerization (`Docker`) • Redis Caching • Task Queues (`BullMQ`)* |
+I work across the **MERN** stack with a strong focus on backend systems: designing clean REST APIs, handling secure auth flows, and containerizing apps with **Docker**. I also actively contributed to open source through **GSSoC'26** and enjoyed collaborating on real-world team codebases.
 
-### 🔌 Core Concepts & Architecture
-* **Backend Systems:** RESTful API Design, Real-time Communication (`Socket.IO`)
-* **Performance & Security:** Rate Limiting, Redis Caching, Async Queues (`BullMQ`)
-* **DevOps Workflows:** Containerization (`Docker`), Production Deployment
 
----
+## Technical Skills
 
-## 📫 Connect With Me
+* **Backend & Security**
+  * Node.js, Express.js, RESTful APIs, Middleware
+  * JWT Authentication, bcrypt, Role-Based Access Control (RBAC)
+  * Zod Input Validation, Rate Limiting, OTP Verification
 
-You can reach out to me via email for collaborations or connect with me professionally on LinkedIn:
+* **Databases**
+  * MongoDB, Mongoose, MongoDB Compass
 
-* 📧 **Email:** [harshitpushkarnais@gmail.com](mailto:harshitpushkarnais@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/harshit-pushkarna](https://www.linkedin.com/in/harshit-pushkarna-b2333b383/)
-* 🐙 **GitHub:** [github.com/Harshit2722](https://github.com/Harshit2722)
+* **Frontend Development**
+  * React, Vite, React Router
+  * JavaScript, HTML5, CSS3
 
----
+* **DevOps & Tooling**
+  * Docker, Docker Compose
+  * GitHub Actions (CI/CD), Git, GitHub
+  * Postman, Cloudinary, Nodemailer
 
-<p align="center">
-  <i>Building • Learning • Shipping</i>
-</p>
+* **AI Integration**
+  * Groq API, LLM Integration
+
+
+
+## Currently Focused On
+
+I'm currently learning and strengthening my skills in:
+
+* **Redis** — Caching, data structures, performance optimization, and backend use cases
+* **BullMQ & Queues** — Background jobs, asynchronous processing, workers, retries, and job scheduling
+* **Next.js** — App Router, Server Components, Server Actions, routing, and production patterns
+* **PostgreSQL** — Relational database design, SQL, relationships, indexing, and query optimization
+* **Prisma** — Type-safe database access, schema design, migrations, and PostgreSQL integration
+
+
+
+## Projects
+
+* **[ShortListAI](https://github.com/Harshit2722/ShortListAI)** — AI-assisted hiring platform that helps automate candidate screening by analyzing resumes and generating AI-powered candidate scores using the Groq LLM API. The application follows a layered backend architecture with structured validation using Zod and is containerized with Docker Compose.
+
+* **[Secure-Justice](https://github.com/Harshit2722/Secure-Justice)** — Digital FIR and evidence management platform designed to manage workflows between citizens, police officers, forensic experts, and administrators. The system implements role-based access control, secure authentication, FIR management, and digital evidence handling with SHA-256 hashing for evidence integrity.
+
+
+
+## Connect With Me
+
+<div align="center">
+
+<i>I'm always open to connecting, collaborating, and discussing interesting projects.</i>
+
+
+<a href="https://www.linkedin.com/in/harshit-pushkarna/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:harshitpushkarnais@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
